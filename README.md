@@ -1,5 +1,5 @@
 <div id="header", align="center">
-    <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" align="left"/>Hi there!</h1>
+    <h1>👾 Hi there!</h1>
     <img src="./coding.gif"/>
 </div>
 
@@ -7,7 +7,7 @@
 <img src="./computer.webp" align="right">
 
 <div id="learn">
-    <h2>I'm learning now:</h2>
+    <h2>🛸 I'm learning now:</h2>
     <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
