@@ -33,4 +33,5 @@
     <a href="https://codeforces.com/profile/codemorph"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 </div>
 
+<hr>
 <img src="./banner.png" align="center"/>
