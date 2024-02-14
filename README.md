@@ -32,3 +32,5 @@
     <a href="https://leetcode.com/codemorph/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
     <a href="https://codeforces.com/profile/codemorph"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 </div>
+
+<img src="./banner.png" align="center"/>
