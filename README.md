@@ -3,8 +3,6 @@
     <img src="./coding.gif"/>
 </div>
 
-
-
 <div id="learn">
     <img src="./computer.webp" align="right">
     <h2>🛸 I'm learning now:</h2>
@@ -33,7 +31,7 @@
 </div>
 
 <div id="use">
-    <img src="./tux.gif" align="right">
+    <img src="./tux.gif" align="right" width="320"/>
     <h2>🚀 I'm using now:</h2> 
     <h3>For coding:</h3>
     <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
