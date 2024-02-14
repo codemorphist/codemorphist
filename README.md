@@ -4,9 +4,9 @@
 </div>
 
 
-<img src="./computer.webp" align="right">
 
 <div id="learn">
+    <img src="./computer.webp" align="right">
     <h2>🛸 I'm learning now:</h2>
     <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
